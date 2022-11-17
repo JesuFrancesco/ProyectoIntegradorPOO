@@ -5,3 +5,5 @@ Los integrantes del grupo somos:
 - Amoretti, Jesu
 - Lujan, Cesar
 - Romero, Fabrizio
+***
+- Update (T6): La versión de terminal ya tiene las funciones de editor de texto y calculadora completas y con verificación de input's
