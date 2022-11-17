@@ -6,4 +6,5 @@ Los integrantes del grupo somos:
 - Lujan, Cesar
 - Romero, Fabrizio
 ***
+- Update (T1-T5): Creación de las clases, pulimento de funcionalidades, etc.
 - Update (T6): La versión de terminal ya tiene las funciones de editor de texto y calculadora completas y con verificación de input's
