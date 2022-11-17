@@ -1,5 +1,5 @@
 # Proyecto Integrador - POO
-![Logotipo de la Univerisdad de Lima](https://media.discordapp.net/attachments/1042936737447546920/1042936794225844354/ulima_logo.png)
+![Logotipo de la Univerisdad de Lima](https://media.discordapp.net/attachments/1042936737447546920/1042938858465136770/ulima_logo.png?width=720&height=158)
 ***
 En el presente repositorio se encuentran los recursos empleados para la realzación de nuestro proyecto integrador hecho en Java. <br>
 Los integrantes del grupo somos:
