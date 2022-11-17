@@ -12,3 +12,5 @@ Los integrantes del grupo somos:
   - Update (T6): La versión de terminal ya tiene las funciones de editor de texto y calculadora completas y con verificación de input's
 - Java Swing GUI Ver.
   - Update (Más reciente): Ya presenta el editor de texto y una selección entre la terminal y swing GUI
+- Mixed Ver.
+  - Update (V1): Se puede seleccionar entre una versión o la otra.
