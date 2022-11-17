@@ -18,4 +18,4 @@ En el presente repositorio se encuentran los recursos empleados para la realzaci
 - Java Swing GUI Ver.
   - Update (Más reciente): Ya presenta el editor de texto y una selección entre la terminal y swing GUI
 - Mixed Ver.
-  - Update (V1): Se puede seleccionar entre una versión o la otra.
+  - Update (V1): Se puede seleccionar entre la versión de terminal o la Swing GUI desde la clase selección (principal)
