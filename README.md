@@ -4,7 +4,6 @@
   <img src="https://media.discordapp.net/attachments/1042936737447546920/1042940724288692254/ulima_logo.png?width=720&height=189" alt="Logotipo de la Universidad de Lima"/>
 </p>
 
-***
 En el presente repositorio se encuentran los recursos empleados para la realzación de nuestro proyecto integrador hecho en Java. <br>
 ## Integrantes
 - Amoretti, Jesu
