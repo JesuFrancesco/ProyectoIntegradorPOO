@@ -19,4 +19,6 @@ En el presente repositorio se encuentran los recursos empleados para la realzaci
 - Mixed Ver.
   - Update (V1): Se puede seleccionar entre la versión de terminal o la Swing GUI desde la clase selección (principal)
   - Update (V2): Se arreglo el error de conexión del paquete.imagenes
+  - Update (V3): Verificación de inputs en la calculadora gráfica y corrección de fallos
+  - Update (V4): Cambio de nombres a ciertas variables. Fin de mantenimiento al programa.
   
