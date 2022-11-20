@@ -17,8 +17,12 @@ En el presente repositorio se encuentran los recursos empleados para la realzaci
 - Java Swing GUI Ver.
   - Update (Más reciente): Ya presenta el editor de texto y una selección entre la terminal y swing GUI
 - Mixed Ver.
-  - Update (V1): Se puede seleccionar entre la versión de terminal o la Swing GUI desde la clase selección (principal) [MixBranch]
-  - Update (V2): Se arreglo el error de conexión del paquete.imagenes [ProyectoIntegradorPOO-V2]
-  - Update (V3): Verificación de inputs en la calculadora gráfica y corrección de fallos. [ProyectoIntegradorPOO-V3]
-  - Update (V4): Cambio de nombres a ciertas variables. Fin de mantenimiento al programa. [ProyectoIntegradorPOO-V4]
+  - Update (V1) [MixBranch]:
+    - Se puede seleccionar entre la versión de terminal o la Swing GUI desde la clase selección (principal) 
+  - Update (V2) [ProyectoIntegradorPOO-V2]:
+    - Se arreglo el error de conexión del paquete.imagenes.
+  - Update (V3) [ProyectoIntegradorPOO-V3]: 
+    - Verificación de inputs en la calculadora gráfica y corrección de fallos. 
+  - Update (V4) [ProyectoIntegradorPOO-V4]:
+    - Cambio de nombres a ciertas variables. Fin de mantenimiento al programa.
   
